@@ -22,6 +22,18 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 - [Projeto 2](https://github.com/seu-usuario/projeto-2) - Descrição do projeto 2
 - [Projeto 3](https://github.com/seu-usuario/projeto-3) - Descrição do projeto 3
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 ## Contato
 
 📧 [Email](mailto:seu-email@example.com)
