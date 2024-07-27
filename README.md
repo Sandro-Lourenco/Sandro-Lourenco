@@ -22,9 +22,10 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 - [Projeto 2](https://github.com/seu-usuario/projeto-2) - Descrição do projeto 2
 - [Projeto 3](https://github.com/seu-usuario/projeto-3) - Descrição do projeto 3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff5733&text_color=c0c0c0&icon_color=4c71f2&bg_color=090110&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Sandro](https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=090110&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&title_color=ff5733&text_color=c0c0c0&icon_color=4c71f2&bg_color=151515&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=151515&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Contato
