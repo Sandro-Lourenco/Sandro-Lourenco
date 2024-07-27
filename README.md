@@ -41,5 +41,5 @@ Ol√°! Eu me chamo Sandro, um desenvolvedor apaixonado por tecnologia e programa√
 
 ## Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario_instagram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandro_calebe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandrocalebe8@gmail.com)
