@@ -22,9 +22,15 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 - [Projeto 2](https://github.com/seu-usuario/projeto-2) - Descrição do projeto 2
 - [Projeto 3](https://github.com/seu-usuario/projeto-3) - Descrição do projeto 3
 
-[![Estatísticas do GitHub de Sandro](https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=090110&border_color=fff)](https://github.com/sandro-lourenco)
+<p align="center">
+  <a href="https://github.com/sandro-lourenco">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=090110&border_color=fff" alt="Estatísticas do GitHub de Sandro" />
+  </a>
+  <a href="https://github.com/sandro-lourenco">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=151515&border_color=fff" alt="Linguagens Mais Usadas" />
+  </a>
+</p>
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=151515&border_color=fff)](https://github.com/sandro-lourenco)
 
 
 ## Contato
