@@ -27,10 +27,10 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 
 <p align="center">
   <a href="https://github.com/sandro-lourenco">
-    <img margin-left: 3em height="180em" src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=0d1117&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Sandro" />
+    <img margin-left: 3em height="180em" src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=0d1117&hide_border=true&card_width=500&locale=pt-br" alt="Estatísticas do GitHub de Sandro" />
   </a>
   <a href="https://github.com/sandro-lourenco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=donut&card_width=400&title_color=ff00ff&text_color=c0c0c0&bg_color=0d1117&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Sandro" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=donut&card_width=500&title_color=ff00ff&text_color=c0c0c0&bg_color=0d1117&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Sandro" />
   </a>
 </p>
 
