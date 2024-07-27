@@ -31,6 +31,11 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&card_width=400&title_color=ff00ff&text_color=c0c0c0&bg_color=090110&border_color=fff" alt="Linguagens mais usadas por Sandro" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/sandro-lourenco">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" />
+  </a>
+</p>
 
 
 
