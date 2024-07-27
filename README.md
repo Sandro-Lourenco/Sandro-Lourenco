@@ -22,45 +22,15 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 - [Projeto 2](https://github.com/seu-usuario/projeto-2) - Descrição do projeto 2
 - [Projeto 3](https://github.com/seu-usuario/projeto-3) - Descrição do projeto 3
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Gráfico de Rosca</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
-    <canvas id="myDonutChart" width="400" height="400"></canvas>
-    <script>
-        var ctx = document.getElementById('myDonutChart').getContext('2d');
-        var myDonutChart = new Chart(ctx, {
-            type: 'doughnut',
-            data: {
-                labels: ['Red', 'Blue', 'Yellow'],
-                datasets: [{
-                    label: 'My Dataset',
-                    data: [300, 50, 100],
-                    backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
-                }]
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        position: 'top',
-                    },
-                    tooltip: {
-                        callbacks: {
-                            label: function(tooltipItem) {
-                                return tooltipItem.label + ': ' + tooltipItem.raw + '%';
-                            }
-                        }
-                    }
-                }
-            }
-        });
-    </script>
-</body>
-</html>
+
+<p align="center">
+  <a href="https://github.com/sandro-lourenco">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=090110&border_color=fff" alt="Estatísticas do GitHub de Sandro" />
+  </a>
+  <a href="https://github.com/sandro-lourenco">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=151515&border_color=fff" alt="Linguagens Mais Usadas" />
+  </a>
+</p>
 
 
 
