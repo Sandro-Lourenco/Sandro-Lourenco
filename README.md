@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub! 🎉
 
-![GitHub Banner](https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+Meu+GitHub)
+![GitHub Banner](a-stunning-3d-render-of-a-programming-console-disp-wKQ5LGSrRfihBSaOBC-xnw-dnSEQ_0-RKumH1XnsKBB0A.jpeg)
 
 ## Olá Devs!
 
