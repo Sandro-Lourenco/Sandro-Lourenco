@@ -34,15 +34,6 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sandro-lourenco">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logotipo do GitHub" width="50" height="50" />
-  </a>
-  <br />
-  <span>Exibe o logotipo do GitHub em vez do nível de classificação.</span>
-</p>
-
-
 ## Contato
 
 📧 [Email](mailto:seu-email@example.com)
