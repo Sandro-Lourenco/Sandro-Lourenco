@@ -2,11 +2,13 @@
 
 ![GitHub Banner](https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+Meu+GitHub)
 
-## Sobre Mim
+## Olá Devs
 
-Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programação.
+Olá! Eu me chamo Sandro, um desenvolvedor apaixonado por tecnologia e programação.
+[![Livro](https://img.shields.io/badge/Book-0077b5?style=for-the-badge&logo=book&logoColor=white)](https://example.com/seu-livro)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=green)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=red)
 
 ## Tecnologias e Ferramentas
 
@@ -37,6 +39,5 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 
 ## Contato
 
-📧 [Email](mailto:seu-email@example.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-🐦 [Twitter](https://twitter.com/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario_instagram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@example.com)
