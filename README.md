@@ -5,8 +5,9 @@
 ## Olá Devs
 
 Olá! Eu me chamo Sandro, um desenvolvedor apaixonado por tecnologia e programação.
-[📚 Livro](https://example.com/seu-livro)
+📚 atualmente curando Sistemas de informação 
 
+![Exemplo de GIF](https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=red)
 
