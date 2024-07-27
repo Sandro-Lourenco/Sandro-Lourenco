@@ -32,7 +32,8 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
   </a>
 </p>
 
-![Gráfico de Rosca](https://exemplo.com/caminho-para-seu-grafico.png)
+![Gráfico 1](https://exemplo.com/caminho-para-seu-primeiro-grafico.png)
+
 
 
 ## Contato
