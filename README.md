@@ -27,7 +27,8 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
     <img src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=090110&border_color=fff" alt="Estatísticas do GitHub de Sandro" />
   </a>
   <a href="https://github.com/sandro-lourenco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=151515&border_color=fff" alt="Linguagens Mais Usadas" />
+    <img src="![Gráfico de Rosca](https://exemplo.com/caminho-para-seu-grafico.png)
+
   </a>
 </p>
 
