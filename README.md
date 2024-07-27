@@ -5,7 +5,7 @@
 ## Olá Devs
 
 Olá! Eu me chamo Sandro, um desenvolvedor apaixonado por tecnologia e programação.
-[![Livro](https://img.shields.io/badge/Book-0077b5?style=for-the-badge&logo=book&logoColor=white)](https://example.com/seu-livro)
+[📚 Livro](https://example.com/seu-livro)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=red)
