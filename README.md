@@ -24,7 +24,7 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff5733&text_color=c0c0c0&icon_color=4c71f2&bg_color=090110&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco$compact&title_color=ff5733&text_color=c0c0c0&icon_color=4c71f2&bg_color=151515&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=ff5733&text_color=c0c0c0&icon_color=4c71f2&bg_color=151515&border_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contato
