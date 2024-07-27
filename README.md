@@ -6,7 +6,7 @@
 
 Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programação.
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=green)
 
 ## Tecnologias e Ferramentas
 
