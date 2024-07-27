@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+Meu+GitHub)
 
-## Olá Devs
+## Olá Devs!
 
 Olá! Eu me chamo Sandro, um desenvolvedor apaixonado por tecnologia e programação.
 - 📚 atualmente curando Sistemas de informação 
