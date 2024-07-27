@@ -27,17 +27,17 @@ Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e programaç
 
 <p align="center">
   <a href="https://github.com/sandro-lourenco">
-    <img src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=090110&border_color=fff&locale=pt-br" alt="Estatísticas do GitHub de Sandro" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=radical&title_color=ff00ff&text_color=c0c0c0&icon_color=ff00ff&bg_color=090110&border_color=fff&locale=pt-br" alt="Estatísticas do GitHub de Sandro" />
   </a>
   <a href="https://github.com/sandro-lourenco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=donut&card_width=400&title_color=ff00ff&text_color=c0c0c0&bg_color=090110&border_color=none&locale=pt-br" alt="Linguagens mais usadas por Sandro" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=donut&card_width=400&title_color=ff00ff&text_color=c0c0c0&bg_color=090110&border_color=none&locale=pt-br" alt="Linguagens mais usadas por Sandro" />
   </a>
 </p>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/seu-usuário-aqui">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandro-lourenco&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sandro-lourenco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contato
