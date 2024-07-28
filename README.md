@@ -19,7 +19,7 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
     <div>
        <p>Texto que você deseja colocar ao lado da imagem. Você pode descrever o que a imagem representa ou adicionar qualquer outro texto relevante aqui.</p>
     </div>
-   <div>
+   <div style="position: absolute;">
        <p>Texto que você deseja colocar ao lado da imagem. Você pode descrever o que a imagem representa ou adicionar qualquer outro texto relevante aqui.</p>
    </div>
 </div>
