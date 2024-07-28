@@ -15,14 +15,13 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
-       <p>Texto que você deseja colocar ao lado da imagem. Você pode descrever o que a imagem representa ou adicionar qualquer outro texto relevante aqui.</p>
-    </div>
-   <div style="position: absolute;">
-       <p>Texto que você deseja colocar ao lado da imagem. Você pode descrever o que a imagem representa ou adicionar qualquer outro texto relevante aqui.</p>
-   </div>
-</div>
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Imagem de exemplo" style="display: inline-block; vertical-align: middle; margin-right: 15px;" />
+  <span style="display: inline-block; vertical-align: middle;">
+    Aqui está o texto que você deseja colocar ao lado da imagem. Pode ser uma breve descrição ou qualquer informação relevante.
+  </span>
+</p>
+
 
 
 ## 📁 Projetos
