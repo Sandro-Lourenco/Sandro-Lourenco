@@ -39,6 +39,8 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 
 
 ## Contato
+Você pode me encontrar no [Instagram](https://instagram.com/seuusuario) ou no [email](mailto:seuemail@example.com) (às vezes demoro um pouco para responder, mas sou gente boa, prometo 🙃). E não deixe de conferir os projetos que já desenvolvi, todos disponíveis nos meus repositórios! =)
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandro_calebe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandrocalebe8@gmail.com)
