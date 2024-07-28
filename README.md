@@ -21,7 +21,7 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 
 ## 📁 Projetos
 
-- [Projeto 1](https://github.com/seu-usuario/projeto-1) - Descrição do projeto 1
+- [Jogo do Carro ](https://gleaming-daifuku-da53b2.netlify.app) - Um dos meus primeiros projetos 
 - [Projeto 2](https://github.com/seu-usuario/projeto-2) - Descrição do projeto 2
 - [Projeto 3](https://github.com/seu-usuario/projeto-3) - Descrição do projeto 3
 
