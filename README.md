@@ -3,9 +3,7 @@
 ![GitHub Banner](a-stunning-3d-render-of-a-programming-console-disp-wKQ5LGSrRfihBSaOBC-xnw-dnSEQ_0-RKumH1XnsKBB0A.jpeg)
 
 ## Olá Devs!
-
-Olá! Eu me chamo Sandro, um desenvolvedor apaixonado por tecnologia e programação.
-- 📚 atualmente curando Sistemas de informação 
+Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e tecnologia. Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ 
 
 ![Exemplo de GIF](https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966)
 
@@ -19,6 +17,7 @@ Olá! Eu me chamo Sandro, um desenvolvedor apaixonado por tecnologia e programa�
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 📚 atualmente curando Sistemas de informação 
 
 ## Projetos
 
