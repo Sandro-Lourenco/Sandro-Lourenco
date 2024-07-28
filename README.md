@@ -2,7 +2,7 @@
 
 ![GitHub Banner](a-stunning-3d-render-of-a-programming-console-disp-wKQ5LGSrRfihBSaOBC-xnw-dnSEQ_0-RKumH1XnsKBB0A.jpeg)
 
-## Olá Devs!
+## 👋 Olá Devs!
 Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e tecnologia. Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ 
 
 <img width ="300px" src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" />
@@ -19,14 +19,14 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - 📚 atualmente curando Sistemas de informação 
 
-## Projetos
+## 📁 Projetos
 
 - [Projeto 1](https://github.com/seu-usuario/projeto-1) - Descrição do projeto 1
 - [Projeto 2](https://github.com/seu-usuario/projeto-2) - Descrição do projeto 2
 - [Projeto 3](https://github.com/seu-usuario/projeto-3) - Descrição do projeto 3
 
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/sandro-lourenco">
@@ -38,8 +38,8 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 </p>
 
 
-## Contato
-Você pode me encontrar no [Instagram](https://instagram.com/seuusuario) ou no [email](mailto:seuemail@example.com) (às vezes demoro um pouco para responder, mas sou gente boa, prometo 🙃). E não deixe de conferir os projetos que já desenvolvi, todos disponíveis nos meus repositórios! =)
+## 📞 Contato
+Você pode me encontrar no [Instagram](https://instagram.com/sandro_calebe) ou no [email](mailto:sandrocalebe8@gmail.com) (às vezes demoro um pouco para responder, mas sou gente boa, prometo 🙃). E não deixe de conferir os projetos que já desenvolvi, todos disponíveis nos meus repositórios! =)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandro_calebe)
