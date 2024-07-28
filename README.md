@@ -9,20 +9,19 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 <img width ="300px" margin="auto" src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" />
 
 ## 🖥️ Tecnologias e Ferramentas
-
-
-<div style="display: flex; justify-content:space-between;">
+<div style="display: flex; align-items: center;">
   <img src="17221930256214u45r09q.png" width="300px" style="margin-right: 20px;" />
   <div>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin: 5px 0;" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 5px 0;" />
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 5px 0;" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 5px 0;" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="margin: 5px 0;" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 5px 0;" />
     <p>- 📚 atualmente curando Sistemas de informação</p>
   </div>
 </div>
+
 
 
 ## 📁 Projetos
