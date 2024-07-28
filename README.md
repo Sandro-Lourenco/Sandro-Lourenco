@@ -15,7 +15,7 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
         <img src="17221930256214u45r09q.png" alt="Descrição da Imagem"/>
     </div>
