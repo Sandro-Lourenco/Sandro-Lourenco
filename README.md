@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub! 🎉
 
-![GitHub Banner](a-stunning-3d-render-of-a-programming-console-disp-wKQ5LGSrRfihBSaOBC-xnw-dnSEQ_0-RKumH1XnsKBB0A.jpeg)
+![GitHub Banner](a-stunning-3d-render-of-a-programming-console-disp-wKQ5LGSrRfihBSaOBC-xnw-dnSEQ_0-RKumH1XnsKBB0A.jpeg) <br>
 
 ## 👋 Olá Devs!
 ![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=A020F0)
