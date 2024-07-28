@@ -43,4 +43,4 @@ Você pode me encontrar no [Instagram](https://instagram.com/sandro_calebe) ou n
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandro_calebe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandrocalebe8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/seu_usuario)
+[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/seu_usuario)
