@@ -11,7 +11,7 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 ## 🖥️ Tecnologias e Ferramentas
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content:space-between;">
   <img src="17221930256214u45r09q.png" width="300px" style="margin-right: 20px;" />
   <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
