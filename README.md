@@ -16,7 +16,7 @@ Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div style="display: flex; align-items: center;">
-  <img src="17221930256214u45r09q.png" width="300px" style="margin-right: 20px;" alt="Descrição da Imagem"/>
+  <img src="17221930256214u45r09q.png" alt="Descrição da Imagem"/>
   <p>Texto que você deseja colocar ao lado da imagem. Você pode descrever o que a imagem representa ou adicionar qualquer outro texto relevante aqui.</p>
 </div>
 
