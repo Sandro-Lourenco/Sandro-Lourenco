@@ -1,12 +1,10 @@
 # Bem-vindo ao Meu Perfil no GitHub! 🎉
 
-![GitHub Banner](a-stunning-3d-render-of-a-programming-console-disp-wKQ5LGSrRfihBSaOBC-xnw-dnSEQ_0-RKumH1XnsKBB0A.jpeg) 
+![GitHub Banner](https://tenor.com/pt-BR/view/cat-busy-workhard-cute-funny-gif-24045373) 
 
 ## 👋 Olá Devs!
 ![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=A020F0) <br>
 Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e tecnologia. Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ 
-
-<div class="tenor-gif-embed" data-postid="24045373" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/cat-busy-workhard-cute-funny-gif-24045373">Cat Busy GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🖥️ Tecnologias e Ferramentas
 
