@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub! 🎉
 
-![GitHub Banner](https://tenor.com/pt-BR/view/cat-busy-workhard-cute-funny-gif-24045373) 
+![GitHub Banner](file:///C:/Users/sandr/Downloads/Cat%20Typing%20GIF.gif) 
 
 ## 👋 Olá Devs!
 ![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=A020F0) <br>
