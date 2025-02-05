@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=A020F0) <br>
 Tenho 21 anos e moro perto de de Goiânia e sou apaixonado por programação e tecnologia. Sou aventureiro no universo da programação, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ 
 
-<img width ="300px" margin="auto" src="https://camo.githubusercontent.com/43927ca9aba739e1c5dcc110be493c08bda983d73e6aee3fd15a64adb23fc8fe/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" />
+<div class="tenor-gif-embed" data-postid="24045373" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/cat-busy-workhard-cute-funny-gif-24045373">Cat Busy GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🖥️ Tecnologias e Ferramentas
 
