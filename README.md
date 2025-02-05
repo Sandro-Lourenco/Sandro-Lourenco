@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub! 🎉
 
-![GitHub Banner](file:///C:/Users/sandr/Downloads/Cat%20Typing%20GIF.gif) 
+![GitHub Banner](https://github.com/Sandro-Lourenco/Sandro-Lourenco/blob/main/Cat%20Typing%20GIF.gif) 
 
 ## 👋 Olá Devs!
 ![Profile Views](https://komarev.com/ghpvc/?username=sandro-lourenco&color=A020F0) <br>
